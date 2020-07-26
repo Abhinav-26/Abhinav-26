@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Abhinav-26/Abhinav-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/abhinavdubey26/">LinkedIn 😍</a>
 - 😄 Pronouns: alex_abhi43 😅
 - ⚡ Fun fact: I am addicted to technology 🤩😍
--->
+
