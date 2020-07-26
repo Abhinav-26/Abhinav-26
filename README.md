@@ -1,9 +1,6 @@
 ### Hi there 👋
-
-
 <!-- **Abhinav-26/Abhinav-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-Here are some ideas to get you started:
+Will Build it better soon 😉😌
 
 - 🔭 I’m currently working on building Profile
 - 🌱 I’m currently learning different technologies 👨🏻‍💻
