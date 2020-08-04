@@ -1,5 +1,5 @@
 ### Hi Abhinav this side 👋 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanigupta19&label=Views&color=blue&style=plastic" alt="Abhinav-26" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhinav-26&color=green" alt="Abhinav-26"/> </p>
 
 - 🔭 I’m currently working on building Profile
 - 🌱 I’m currently learning different technologies 👨🏻‍💻
