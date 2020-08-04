@@ -1,5 +1,6 @@
 ### Hi Abhinav this side 👋 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhinav-26&color=green" alt="Abhinav-26"/> </p>
+<center><img align="center" alt="GIF" width="620" height="480" src="https://cdn.dribbble.com/users/380990/screenshots/4282707/comp_animation_3.gif" /></center>
 
 - 🔭 I’m currently working on building Profile
 - 🌱 I’m currently learning different technologies 👨🏻‍💻
