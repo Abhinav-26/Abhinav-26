@@ -16,4 +16,17 @@
 [![Linkedin Badge](https://img.shields.io/badge/-AbhinavDubey-black?style=social&logo=Linkedin&logoColor=yellow&link=https://www.linkedin.com/in/abhinavdubey26/)](https://www.linkedin.com/in/abhinavdubey26/)&nbsp;&nbsp;&nbsp;
 [![Twitter Badge](http://img.shields.io/badge/-@alex_abhi43-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/alex_abhi43)](https://twitter.com/alex_abhi43)&nbsp;&nbsp;&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:abhinavdubey616@gmail.com)](mailto:abhinavdubey616@gmail.com)&nbsp;&nbsp;&nbsp;
-[![GitHub Watchers](https://img.shields.io/github/watchers/Abhinav-26/Abhinav-26?label=GitHub&style=social&link=https://github.com/Abhinav-26)](https://github.com/Abhinav-26)
+### ✨ Lnaguages & Tools I worked On
+<code><img height="30" src="https://img.icons8.com/color/48/000000/python.png"/></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="30" src="https://w7.pngwing.com/pngs/649/174/png-transparent-dart-google-developers-flutter-android-darts-text-logo-web-application.png"></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/flutter.png"/></code>
+<code><img height="30" src="https://w7.pngwing.com/pngs/166/342/png-transparent-flask-python-bottle-web-framework-web-application-flask-white-monochrome-shoe.png"></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/git.png"/></code>
+<code><img height="30" src="https://www.brandeps.com/logo-download/O/OpenCV-logo-vector-01.svg"></code>
+<code><img height="30" src="https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/x3gdrogoamvuvjemehbr"></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/bootstrap.png"/></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="30" src="https://dwglogo.com/wp-content/uploads/2017/11/Jenkins-logo.svg"></code>
+<code><img height="30" src="https://img.icons8.com/dusk/64/000000/docker.png"/></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/kubernetes.png"/></code>
