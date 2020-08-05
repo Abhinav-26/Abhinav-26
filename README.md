@@ -21,12 +21,14 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://w7.pngwing.com/pngs/649/174/png-transparent-dart-google-developers-flutter-android-darts-text-logo-web-application.png"></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/flutter.png"/></code>
-<code><img height="30" src="https://w7.pngwing.com/pngs/166/342/png-transparent-flask-python-bottle-web-framework-web-application-flask-white-monochrome-shoe.png"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/git.png"/></code>
 <code><img height="30" src="https://www.brandeps.com/logo-download/O/OpenCV-logo-vector-01.svg"></code>
 <code><img height="30" src="https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/x3gdrogoamvuvjemehbr"></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/bootstrap.png"/></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://dwglogo.com/wp-content/uploads/2017/11/Jenkins-logo.svg"></code>
-<code><img height="30" src="https://img.icons8.com/dusk/64/000000/docker.png"/></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/docker-container.png"/></code>
+<code><img height="30" src="https://img.icons8.com/cute-clipart/50/000000/linux-client.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/kubernetes.png"/></code>
+<code><img height="30" src="https://img.icons8.com/windows/32/000000/redhat.png"/></code>
