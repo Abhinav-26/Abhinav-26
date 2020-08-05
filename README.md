@@ -3,14 +3,14 @@
 
 - 🔭 I’m currently focusing on building skills 👨⌛️
 - 🌱 I’m currently learning different technologies 👨🏻‍💻
-- 👯 I’m open to collaborate on open-source Projects in <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ML/DL,DevOps, Flutter, ComputerVision, Linux, etc.
+- 👯 I’m open to collaborate on open-source Projects in <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ML/DL,DevOps, Flutter, ComputerVision, Linux,🤗🥰
 - 🤔 I’m looking for Freelancing Projects 💸💰
 - 💬 Ask me about anything you wish for, I will we happy to<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; help you in anyway 👦🏻🥰
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/abhinavdubey26/">LinkedIn</a> 😍
 - 😄 Pronouns: alex_abhi43 😅
 - 😍 For Business deals Reach me through <a href="abhinavdubey616@gmail.com">📩</a>
-- 🤩 Always ready to Participate in Hackathons 😍🎒
-- 🤗 Love to make new connections 😍🐥
+- 🤩 Always ready to Participate in Hackathons 🎒
+- 🤗 Love to make new connections 👫🐥
 - ⚡ Fun fact: I am addicted to technology 🤩😍 <hr>
 ### ✨ Social Media Profiles 
 [![Linkedin Badge](https://img.shields.io/badge/-AbhinavDubey-black?style=social&logo=Linkedin&logoColor=yellow&link=https://www.linkedin.com/in/abhinavdubey26/)](https://www.linkedin.com/in/abhinavdubey26/)&nbsp;&nbsp;&nbsp;
