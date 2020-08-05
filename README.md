@@ -8,7 +8,7 @@
 - 💬 Ask me about anything you wish for, I will we happy to help<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;you in anyway 👦🏻🥰
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/abhinavdubey26/">LinkedIn 😍</a>
 - 😄 Pronouns: alex_abhi43 😅
-- 😍 For Business deals mail me at - abhinavdubey616@gmail.com 💌📭
+- 😍 For Business deals Reach me through <a href="abhinavdubey616@gmail.com">📩</a>
 - 🤩 Always ready to collaborate and participate in Hackathons 😍🎒
 - 🤗 Love to make new connections 😍🐥
 - ⚡ Fun fact: I am addicted to technology 🤩😍
