@@ -11,6 +11,5 @@
 - 😍 For Business deals Reach me through <a href="abhinavdubey616@gmail.com">📩</a>
 - 🤩 Always ready to collaborate and participate in Hackathons 😍🎒
 - 🤗 Love to make new connections 😍🐥
-- ⚡ Fun fact: I am addicted to technology 🤩😍
-
+- ⚡ Fun fact: I am addicted to technology 🤩😍 <hr>
 
