@@ -17,18 +17,18 @@
 [![Twitter Badge](http://img.shields.io/badge/-@alex_abhi43-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/alex_abhi43)](https://twitter.com/alex_abhi43)&nbsp;&nbsp;&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:abhinavdubey616@gmail.com)](mailto:abhinavdubey616@gmail.com)&nbsp;&nbsp;&nbsp;
 ### ✨ Languages & Tools I worked On
-<code><img height="20" src="https://img.icons8.com/color/48/000000/python.png"/></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://w7.pngwing.com/pngs/649/174/png-transparent-dart-google-developers-flutter-android-darts-text-logo-web-application.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/flutter.png"/></code>
-<code><img height="20" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/git.png"/></code>
-<code><img height="20" src="https://www.brandeps.com/logo-download/O/OpenCV-logo-vector-01.svg"></code>
-<code><img height="20" src="https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/x3gdrogoamvuvjemehbr"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/bootstrap.png"/></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://dwglogo.com/wp-content/uploads/2017/11/Jenkins-logo.svg"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/docker-container.png"/></code>
-<code><img height="20" src="https://img.icons8.com/cute-clipart/50/000000/linux-client.png"/></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/kubernetes.png"/></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/python.png"/></code>&nbsp;&nbsp;
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>&nbsp;&nbsp;
+<code><img height="20" src="https://w7.pngwing.com/pngs/649/174/png-transparent-dart-google-developers-flutter-android-darts-text-logo-web-application.png"></code>&nbsp;&nbsp;
+<code><img height="20" src="https://img.icons8.com/color/48/000000/flutter.png"/></code>&nbsp;&nbsp;
+<code><img height="20" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>&nbsp;&nbsp;
+<code><img height="20" src="https://img.icons8.com/color/48/000000/git.png"/></code>&nbsp;&nbsp;
+<code><img height="20" src="https://www.brandeps.com/logo-download/O/OpenCV-logo-vector-01.svg"></code>&nbsp;&nbsp;
+<code><img height="20" src="https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/x3gdrogoamvuvjemehbr"></code>&nbsp;&nbsp;
+<code><img height="20" src="https://img.icons8.com/color/48/000000/bootstrap.png"/></code>&nbsp;&nbsp;
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>&nbsp;&nbsp;
+<code><img height="20" src="https://dwglogo.com/wp-content/uploads/2017/11/Jenkins-logo.svg"></code>&nbsp;&nbsp;
+<code><img height="20" src="https://img.icons8.com/color/48/000000/docker-container.png"/></code>&nbsp;&nbsp;
+<code><img height="20" src="https://img.icons8.com/cute-clipart/50/000000/linux-client.png"/></code>&nbsp;&nbsp;
+<code><img height="20" src="https://img.icons8.com/color/48/000000/kubernetes.png"/></code>&nbsp;&nbsp;
 <code><img height="20" src="https://img.icons8.com/windows/32/000000/redhat.png"/></code>
