@@ -33,5 +33,5 @@
 <code><img height="25" src="https://img.icons8.com/color/48/000000/kubernetes.png"/></code>&nbsp;&nbsp;
 <code><img height="25" src="https://img.icons8.com/windows/32/000000/redhat.png"/></code><br>
 ### 🤗 Some Insights of GitHub Profile
-![Github stats](https://github-readme-stats.vercel.app/api?username=Abhinav-26&theme=tokyonight&count_private=true&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Abhinav-26&theme=tokyonight&count_private=true&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-26&layout=compact&theme=tokyonight)
