@@ -34,4 +34,4 @@
 <code><img height="25" src="https://img.icons8.com/windows/32/000000/redhat.png"/></code><br>
 ### 🤗 Some Insights of GitHub Profile
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Abhinav-26&theme=tokyonight&count_private=true&show_icons=true)
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-26&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-26&layout=compact&theme=tokyonight)
