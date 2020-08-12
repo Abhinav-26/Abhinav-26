@@ -31,4 +31,6 @@
 <code><img height="25" src="https://img.icons8.com/color/48/000000/docker-container.png"/></code>&nbsp;&nbsp;
 <code><img height="25" src="https://img.icons8.com/cute-clipart/50/000000/linux-client.png"/></code>&nbsp;&nbsp;
 <code><img height="25" src="https://img.icons8.com/color/48/000000/kubernetes.png"/></code>&nbsp;&nbsp;
-<code><img height="25" src="https://img.icons8.com/windows/32/000000/redhat.png"/></code>
+<code><img height="25" src="https://img.icons8.com/windows/32/000000/redhat.png"/></code><br>
+### 🤗 Some Insights of GitHub Profile
+![Github stats](https://github-readme-stats.vercel.app/api?username=Abhinav-26&theme=tokyonight&count_private=true&show_icons=true)
