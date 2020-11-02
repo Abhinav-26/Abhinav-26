@@ -11,7 +11,7 @@
 - 😍 For Business deals Reach me through <a href="abhinavdubey616@gmail.com">📩</a>
 - 🤩 Always ready to Participate in Hackathons 🎒
 - 🤗 Love to make new connections 👫🐥
-- ⚡ Fun fact: I am addicted to technology 🤩😍 <hr>
+- ⚡ Fun fact: I am a true alpha 🐺🔥 <hr>
 ### ✨ Social Media Profiles 
 [![Linkedin Badge](https://img.shields.io/badge/-AbhinavDubey-black?style=social&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/abhinavdubey26/)](https://www.linkedin.com/in/abhinavdubey26/)&nbsp;&nbsp;&nbsp;
 [![Twitter Badge](http://img.shields.io/badge/-@alex_abhi43-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/alex_abhi43)](https://twitter.com/alex_abhi43)&nbsp;&nbsp;&nbsp;
