@@ -19,9 +19,6 @@
 ### ✨ Languages & Tools I worked On
 <code><img height="25" src="https://img.icons8.com/color/48/000000/python.png"/></code>&nbsp;&nbsp;
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>&nbsp;&nbsp;
-
-
-
 <code><img height="25" src="https://img.icons8.com/color/48/000000/git.png"/></code>&nbsp;&nbsp;
 <code><img height="25" src="https://www.brandeps.com/logo-download/O/OpenCV-logo-vector-01.svg"></code>&nbsp;&nbsp;
 <code><img height="25" src="https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/x3gdrogoamvuvjemehbr"></code>&nbsp;&nbsp;
