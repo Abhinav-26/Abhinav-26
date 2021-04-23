@@ -28,7 +28,8 @@
 <code><img height="35" src="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png"/></code>&nbsp;&nbsp;
 <code><img height="35" src="https://img.icons8.com/cute-clipart/50/000000/linux-client.png"/></code>&nbsp;&nbsp;
 <code><img height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png"/></code>&nbsp;&nbsp;
-<code><img height="35" src="https://img.icons8.com/windows/32/000000/redhat.png"/></code><br>
+<code><img height="35" src="https://static.djangoproject.com/img/logos/django-logo-negative.png"></code>&nbsp;&nbsp;
+<code><img height="35" src="https://image.pngaaa.com/145/98145-small.png"/></code><br>
 ### 🤗 Some Insights of GitHub Profile
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Abhinav-26&theme=tokyonight&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-26&layout=compact&theme=tokyonight)
