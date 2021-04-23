@@ -17,18 +17,18 @@
 [![Twitter Badge](http://img.shields.io/badge/-@alex_abhi43-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/alex_abhi43)](https://twitter.com/alex_abhi43)&nbsp;&nbsp;&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:abhinavdubey616@gmail.com)](mailto:abhinavdubey616@gmail.com)&nbsp;&nbsp;&nbsp;
 ### ✨ Languages & Tools I worked On
-<code><img height="25" src="https://img.icons8.com/color/48/000000/python.png"/></code>&nbsp;&nbsp;
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>&nbsp;&nbsp;
-<code><img height="25" src="https://img.icons8.com/color/48/000000/git.png"/></code>&nbsp;&nbsp;
-<code><img height="25" src="https://www.brandeps.com/logo-download/O/OpenCV-logo-vector-01.svg"></code>&nbsp;&nbsp;
-<code><img height="25" src="https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/x3gdrogoamvuvjemehbr"></code>&nbsp;&nbsp;
-<code><img height="25" src="https://img.icons8.com/color/48/000000/bootstrap.png"/></code>&nbsp;&nbsp;
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>&nbsp;&nbsp;
-<code><img height="30" width="60" src="https://zeenyx.com/wp-content/uploads/2020/12/logo-title-jenkins.png"></code>&nbsp;&nbsp;
-<code><img height="40" width="40" src="https://img.icons8.com/color/48/000000/docker-container.png"/></code>&nbsp;&nbsp;
-<code><img height="25" src="https://img.icons8.com/cute-clipart/50/000000/linux-client.png"/></code>&nbsp;&nbsp;
-<code><img height="25" src="https://img.icons8.com/color/48/000000/kubernetes.png"/></code>&nbsp;&nbsp;
-<code><img height="25" src="https://img.icons8.com/windows/32/000000/redhat.png"/></code><br>
+<code><img height="35" src="https://img.icons8.com/color/48/000000/python.png"/></code>&nbsp;&nbsp;
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>&nbsp;&nbsp;
+<code><img height="35" src="https://img.icons8.com/color/48/000000/git.png"/></code>&nbsp;&nbsp;
+<code><img height="35" src="https://www.brandeps.com/logo-download/O/OpenCV-logo-vector-01.svg"></code>&nbsp;&nbsp;
+<code><img height="35" src="https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/x3gdrogoamvuvjemehbr"></code>&nbsp;&nbsp;
+<code><img height="35" src="https://img.icons8.com/color/48/000000/bootstrap.png"/></code>&nbsp;&nbsp;
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>&nbsp;&nbsp;
+<code><img height="40" src="https://www.cyberark.com/wp-content/uploads/2018/09/jenkins-e1537966865729.png"></code>&nbsp;&nbsp;
+<code><img height="35" src="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png"/></code>&nbsp;&nbsp;
+<code><img height="35" src="https://img.icons8.com/cute-clipart/50/000000/linux-client.png"/></code>&nbsp;&nbsp;
+<code><img height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png"/></code>&nbsp;&nbsp;
+<code><img height="35" src="https://img.icons8.com/windows/32/000000/redhat.png"/></code><br>
 ### 🤗 Some Insights of GitHub Profile
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Abhinav-26&theme=tokyonight&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-26&layout=compact&theme=tokyonight)
