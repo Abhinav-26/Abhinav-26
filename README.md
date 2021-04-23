@@ -1,5 +1,5 @@
 ### Hi Abhinav this side 👋 <div  align="right"> <img src="https://komarev.com/ghpvc/?username=Abhinav-26&color=green" alt="Abhinav-26"/> </div>
-<center><img align="right" alt="GIF" width="420" height="360" src="https://static.wixstatic.com/media/e01f6d_58672226f95043c58c3c3d51e609cb82~mv2.gif" /></center>
+<center><img align="right" alt="GIF" width="420" height="360" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif" /></center>
 
 - 🔭 I’m currently focusing on building skills 👨⌛️
 - 🌱 I’m currently learning different technologies 👨🏻‍💻
