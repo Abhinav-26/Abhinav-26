@@ -25,7 +25,7 @@
 <code><img height="25" src="https://img.icons8.com/color/48/000000/bootstrap.png"/></code>&nbsp;&nbsp;
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>&nbsp;&nbsp;
 <code><img height="30" width="60" src="https://zeenyx.com/wp-content/uploads/2020/12/logo-title-jenkins.png"></code>&nbsp;&nbsp;
-<code><img height="25" src="https://img.icons8.com/color/48/000000/docker-container.png"/></code>&nbsp;&nbsp;
+<code><img height="40" width="40" src="https://img.icons8.com/color/48/000000/docker-container.png"/></code>&nbsp;&nbsp;
 <code><img height="25" src="https://img.icons8.com/cute-clipart/50/000000/linux-client.png"/></code>&nbsp;&nbsp;
 <code><img height="25" src="https://img.icons8.com/color/48/000000/kubernetes.png"/></code>&nbsp;&nbsp;
 <code><img height="25" src="https://img.icons8.com/windows/32/000000/redhat.png"/></code><br>
