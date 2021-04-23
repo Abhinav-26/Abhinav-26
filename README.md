@@ -24,7 +24,9 @@
 <code><img height="25" src="https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/x3gdrogoamvuvjemehbr"></code>&nbsp;&nbsp;
 <code><img height="25" src="https://img.icons8.com/color/48/000000/bootstrap.png"/></code>&nbsp;&nbsp;
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>&nbsp;&nbsp;
-<code><img height="25" src="https://dwglogo.com/wp-content/uploads/2017/11/Jenkins-logo.svg"></code>&nbsp;&nbsp;
+<!-- <code><img height="25" src="https://dwglogo.com/wp-content/uploads/2017/11/Jenkins-logo.svg"></code>&nbsp;&nbsp; -->
+<code><img height="30" width="60" src="https://zeenyx.com/wp-content/uploads/2020/12/logo-title-jenkins.png"></code>&nbsp;&nbsp;
+
 <code><img height="25" src="https://img.icons8.com/color/48/000000/docker-container.png"/></code>&nbsp;&nbsp;
 <code><img height="25" src="https://img.icons8.com/cute-clipart/50/000000/linux-client.png"/></code>&nbsp;&nbsp;
 <code><img height="25" src="https://img.icons8.com/color/48/000000/kubernetes.png"/></code>&nbsp;&nbsp;
