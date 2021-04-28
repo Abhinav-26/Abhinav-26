@@ -21,7 +21,7 @@
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>&nbsp;&nbsp;
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png"/></code>&nbsp;&nbsp;
 <code><img height="35" src="https://qph.fs.quoracdn.net/main-qimg-748316a749bdb46f5cdbe02e976e5500.webp"></code>&nbsp;&nbsp;
-<code><img height="35" src="https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/x3gdrogoamvuvjemehbr"></code>&nbsp;&nbsp;
+<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png"></code>&nbsp;&nbsp;
 <code><img height="35" src="https://img.icons8.com/color/48/000000/bootstrap.png"/></code>&nbsp;&nbsp;
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>&nbsp;&nbsp;
 <code><img height="40" src="https://www.cyberark.com/wp-content/uploads/2018/09/jenkins-e1537966865729.png"></code>&nbsp;&nbsp;
