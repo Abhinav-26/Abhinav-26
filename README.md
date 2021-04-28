@@ -23,7 +23,7 @@
 <code><img height="35" src="https://qph.fs.quoracdn.net/main-qimg-748316a749bdb46f5cdbe02e976e5500.webp"></code>&nbsp;&nbsp;
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png"></code>&nbsp;&nbsp;
 <code><img height="35" src="https://img.icons8.com/color/48/000000/bootstrap.png"/></code>&nbsp;&nbsp;
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>&nbsp;&nbsp;
+<code><img height="35" src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2016/09/terminal-icon.png"></code>&nbsp;&nbsp;
 <code><img height="40" src="https://www.cyberark.com/wp-content/uploads/2018/09/jenkins-e1537966865729.png"></code>&nbsp;&nbsp;
 <code><img height="35" src="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png"/></code>&nbsp;&nbsp;
 <code><img height="35" src="https://img.icons8.com/cute-clipart/50/000000/linux-client.png"/></code>&nbsp;&nbsp;
