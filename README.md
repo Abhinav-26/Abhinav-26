@@ -13,9 +13,16 @@
 - 🤗 Love to make new connections 👫🐥
 - ⚡ Fun fact: I'am an Original 🐺🧛🏻‍♂️🔥 <hr>
 ### ✨ Social Media Profiles 
-[![Linkedin Badge](https://img.shields.io/badge/-AbhinavDubey-black?style=social&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/abhinavdubey26/)](https://www.linkedin.com/in/abhinavdubey26/)&nbsp;&nbsp;&nbsp;
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-AbhinavDubey-black?style=social&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/abhinavdubey26/)](https://www.linkedin.com/in/abhinavdubey26/)&nbsp;&nbsp;&nbsp;
 [![Twitter Badge](http://img.shields.io/badge/-@alex_abhi43-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/alex_abhi43)](https://twitter.com/alex_abhi43)&nbsp;&nbsp;&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:abhinavdubey616@gmail.com)](mailto:abhinavdubey616@gmail.com)&nbsp;&nbsp;&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:abhinavdubey616@gmail.com)](mailto:abhinavdubey616@gmail.com)&nbsp;&nbsp;&nbsp; -->
+
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/alex_abhi43) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abhinavdubey26/) 
+[<img src="https://img.shields.io/badge/-Reddit-red?&style=for-the-badge&logo=reddit&logoColor=white" />](https://www.reddit.com/user/alex_abhi43)
+[<img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />](https://dev.to/abhinav26)
+[<img src="https://img.shields.io/badge/-GMail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />](mailto:abhinavdubey616@gmail.com)
+
 ### ✨ Languages & Tools I worked On
 <code><img height="35" src="https://img.icons8.com/color/48/000000/python.png"/></code>&nbsp;&nbsp;
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>&nbsp;&nbsp;
