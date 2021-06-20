@@ -35,7 +35,7 @@
 <code><img height="35" src="https://img.icons8.com/cute-clipart/50/000000/linux-client.png"/></code>&nbsp;&nbsp;
 <code><img height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png"/></code>&nbsp;&nbsp;
 <code><img height="35" src="https://static.djangoproject.com/img/logos/django-logo-negative.png"></code><br><br>
-<code><img height="35" src="https://image.pngaaa.com/145/98145-small.png"/></code><br>
+<code><img height="35" src="https://image.pngaaa.com/145/98145-small.png"/></code>
 <code><img height="35" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEA3yREH_BPrw/company-logo_200_200/0/1595432417222?e=2159024400&v=beta&t=u6wA4o7mHaNVS7FPJV0o83sV6VLoY-AnERINxsksAFU"/></code><br>
 ### 🤗 Some Insights of GitHub Profile
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Abhinav-26&theme=tokyonight&count_private=true&show_icons=true)
