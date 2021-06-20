@@ -4,11 +4,11 @@
 - 🔭 I’m currently focusing on upgrading skills 👨⌛️
 - 🌱 Democratising the Kubernetes adoption 👨🏻‍💻
 - 👯 I’m open to collaborate on open-source Projects in <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Webdev, DevOps, ComputerVision, Linux 🤗🥰
-- 🤔 Developing since last 2 years 😎
+- 🤔 Into Development since last 2 years 😎
 - 💬 Ask me about anything, I will we happy to<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; help you in anyway 👦🏻🥰
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/abhinavdubey26/">LinkedIn</a> 😍
 - 😄 Pronouns: abhinav26 😅
-- 😍 For Business deals reach me through <a href="abhinavdubey616@gmail.com">📩</a>
+- 😍 For Business deals reach me through 📩
 - 🤩 Always ready to Participate in Hackathons 🎒
 - 🤗 Love to make new connections 👫🐥
 - ⚡ Fun fact: I'am an Original 🐺🧛🏻‍♂️🔥 <hr>
