@@ -1,4 +1,4 @@
-### Hi Abhinav this side 👋 <div  align="right"> <img src="https://komarev.com/ghpvc/?username=Abhinav-26&color=green" alt="Abhinav-26"/> </div>
+### Hi 👋, Abhinav this side <div  align="right"> <img src="https://komarev.com/ghpvc/?username=Abhinav-26&color=green" alt="Abhinav-26"/> </div>
 <center><img align="right" alt="GIF" width="420" height="360" src="https://www.activebittechnologies.com/img/abt/wed-development.gif" /></center>
 
 - 🔭 I’m currently focusing on upgrading skills 👨⌛️
@@ -12,7 +12,7 @@
 - 🤩 Always ready to Participate in Hackathons 🎒
 - 🤗 Love to make new connections 👫🐥
 - ⚡ Fun fact: I'am an Original 🐺🧛🏻‍♂️🔥 <hr>
-### ✨ Social Media Profiles 
+### 🤝 Connect with me on 👇
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-AbhinavDubey-black?style=social&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/abhinavd26/)](https://www.linkedin.com/in/abhinavdubey26/)&nbsp;&nbsp;&nbsp;
 [![Twitter Badge](http://img.shields.io/badge/-@alex_abhi43-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/abhinavd26)](https://twitter.com/alex_abhi43)&nbsp;&nbsp;&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:abhinavdubey616@gmail.com)](mailto:abhinavdubey616@gmail.com)&nbsp;&nbsp;&nbsp; -->
@@ -21,9 +21,8 @@
 [<img src="https://img.shields.io/badge/-Reddit-red?&style=for-the-badge&logo=reddit&logoColor=white" />](https://www.reddit.com/user/abhinavd26)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abhinavdubey26/) 
 [<img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />](https://dev.to/abhinavd26)
-[<img src="https://img.shields.io/badge/-GMail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />](mailto:abhinavdubey616@gmail.com)
 
-### ✨ Languages & Tools I worked On
+### ⚙️ Languages & Tools I worked On 👨🏻‍💻
 <code><img height="35" src="https://img.icons8.com/color/48/000000/python.png"/></code>&nbsp;&nbsp;
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>&nbsp;&nbsp;
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png"/></code>&nbsp;&nbsp;
@@ -37,6 +36,6 @@
 <code><img height="35" src="https://static.djangoproject.com/img/logos/django-logo-negative.png"></code><br><br>
 <code><img height="35" src="https://image.pngaaa.com/145/98145-small.png"/></code>&nbsp;&nbsp;
 <code><img height="35" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEA3yREH_BPrw/company-logo_200_200/0/1595432417222?e=2159024400&v=beta&t=u6wA4o7mHaNVS7FPJV0o83sV6VLoY-AnERINxsksAFU"/></code><br>
-### 🤗 Some Insights of GitHub Profile
+### 😎 Some Insights of my GitHub Profile 🚀
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Abhinav-26&theme=tokyonight&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-26&layout=compact&theme=tokyonight)
