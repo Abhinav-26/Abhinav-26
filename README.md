@@ -1,5 +1,5 @@
 
-### Hi 👋, Abhinav this side <div align="right"> <img src="https://komarev.com/ghpvc/?username=Abhinav-26&color=green" alt="Abhinav-26"/> </div>
+### Hi 👋, Abhinav this side  <img align="right" src="https://komarev.com/ghpvc/?username=Abhinav-26&color=green" alt="Abhinav-26"/> 
 ![header](https://user-images.githubusercontent.com/48083659/134559264-9be6cca8-67d5-4cc4-8357-6712b97cfacb.jpg)
 
 <center><img align="right" alt="GIF" width="420" height="360" src="https://www.activebittechnologies.com/img/abt/wed-development.gif" /></center>
