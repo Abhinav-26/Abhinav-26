@@ -1,12 +1,12 @@
 
-### Hi 👋, Abhinav this side  <img align="right" src="https://komarev.com/ghpvc/?username=Abhinav-26&color=green" alt="Abhinav-26"/> 
+### Hi there 👋, Abhinav this side 👨🏻‍💻 <img align="right" src="https://komarev.com/ghpvc/?username=Abhinav-26&color=green" alt="Abhinav-26"/> 
 ![header](https://user-images.githubusercontent.com/48083659/134559264-9be6cca8-67d5-4cc4-8357-6712b97cfacb.jpg)
 
 <center><img align="right" alt="GIF" width="420" height="360" src="https://www.activebittechnologies.com/img/abt/wed-development.gif" /></center>
 
 - 🔭 I’m currently focusing on upgrading skills 👨⌛️
 - 🌱 Democratising the Kubernetes adoption 👨🏻‍💻
-- 👯 I’m open to collaborate on open-source Projects in <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Webdev, DevOps, ComputerVision, Linux 🤗🥰
+- 👯 I’m open to collaborate on open-source Projects 🤗
 - 🤔 Into Development since last 2 years 😎
 - 💬 Ask me about anything, I will we happy to help 👦🏻🥰
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/abhinavd26/">LinkedIn</a> 😍
