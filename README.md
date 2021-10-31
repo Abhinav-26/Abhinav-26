@@ -6,10 +6,10 @@
 
 - 🔭 I’m currently focusing on upgrading skills 👨⌛️
 - 🌱 Democratising the Kubernetes adoption 👨🏻‍💻
-- 👯 I’m open to collaborate on open-source Projects 🤗
+- 👯 Open to collaborate on open-source Projects 🤗
 - 🤔 Into Development since 2019 😎
 - ⚙️ Loves to learn & share with the community 🐬
-- 💬 Ask me about anything, I will we happy to help 👦🏻🥰
+- 💬 Ask me about anything, will we happy to help 👦🏻🥰
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/abhinavd26/">LinkedIn</a> 😍
 - 😄 Pronouns: @abhinavd26 😅
 - 😍 For Business deals reach me through 📩
