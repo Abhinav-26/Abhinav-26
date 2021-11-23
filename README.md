@@ -11,7 +11,7 @@
 - ⚙️ Loves to learn & share with the community 🐬
 - 💬 Ask me about anything, will we happy to help 👦🏻🥰
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/abhinavd26/">LinkedIn</a> 😍
-- 😄 Pronouns: @abhinavd26 😅
+- 😄 Pronouns: <a href="https://twitter.com/abhinavd26">@abhinavd26</a> 😅
 - 😍 For Business deals reach me through 📩
 - 🤩 Always ready to Participate in Hackathons 🎒
 - 🤗 Love to make new connections 👫🐥
