@@ -44,4 +44,3 @@
 <code><img height="35" src="https://k3d.io/v4.4.8/static/img/k3d_logo_black_blue.svg"></code><br>
 ### 😎 Some Insights of my GitHub Profile 🚀
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Abhinav-26&theme=tokyonight&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-26&layout=compact&theme=tokyonight)
