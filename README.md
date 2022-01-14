@@ -41,6 +41,8 @@
 <code><img height="35" src="https://image.pngaaa.com/145/98145-small.png"/></code>&nbsp;&nbsp;
 <code><img height="35" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEA3yREH_BPrw/company-logo_200_200/0/1595432417222?e=2159024400&v=beta&t=u6wA4o7mHaNVS7FPJV0o83sV6VLoY-AnERINxsksAFU"/></code>&nbsp;&nbsp;
 <code><img height="35" src="https://k3s.io/images/logo-k3s.svg"></code>&nbsp;&nbsp;
+<code><img height="35" src="https://argo-cd.readthedocs.io/en/stable/assets/argo.png"></code>&nbsp;&nbsp;
 <code><img height="35" src="https://k3d.io/v4.4.8/static/img/k3d_logo_black_blue.svg"></code><br>
+
 ### 😎 Some Insights of my GitHub Profile 🚀
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Abhinav-26&theme=tokyonight&count_private=true&show_icons=true)
