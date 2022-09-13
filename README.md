@@ -9,7 +9,6 @@
 - 💬 Ask me about anything, will we happy to help 👦🏻🥰
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/abhinavd26/">LinkedIn</a> 😍
 - 😍 For Business deals reach me through 📩
-- 🤩 Always ready to Participate in Hackathons 🎒
 - 😄 Pronouns: <a href="https://twitter.com/abhinavd26">@abhinavd26</a> 😅
 - 🤗 Love to make new connections 👫🐥
 - ⚡ Fun fact: I'am an Original 🐺🧛🏻‍♂️🔥 <hr>
