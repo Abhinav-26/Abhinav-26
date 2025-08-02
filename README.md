@@ -10,7 +10,9 @@
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/abhinavd26/">LinkedIn</a> 😍
 - 😍 For Business deals reach me through 📩
 - 😄 Pronouns: <a href="https://twitter.com/abhinavd26">@abhinavd26</a> 😅
-- ⚡ Fun fact: I'am an Original 🐺🧛🏻‍♂️🔥 <hr>
+- ⚡ Fun fact: I'am an Original 🐺🧛🏻‍♂️🔥
+<hr>
+
 ### Let's Connect 🤝
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-AbhinavDubey-black?style=social&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/abhinavd26/)](https://www.linkedin.com/in/abhinavdubey26/)&nbsp;&nbsp;&nbsp;
 [![Twitter Badge](http://img.shields.io/badge/-@alex_abhi43-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/abhinavd26)](https://twitter.com/alex_abhi43)&nbsp;&nbsp;&nbsp;
@@ -19,6 +21,7 @@
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/abhinavd26) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abhinavd26/) 
 [<img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />](https://dev.to/abhinavd26)
+<hr>
 
 <!--
 ### Languages & Tools Worked On 👨🏻‍💻
@@ -45,7 +48,7 @@
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=48083659" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=48083659&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=48083659&image_size=auto&color_scheme=dark" width="auto" height="auto">
     <img alt="Dashboard stats of @Abhinav-26" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=48083659&image_size=auto&color_scheme=light" width="auto" height="auto">
   </picture>
 </a>
