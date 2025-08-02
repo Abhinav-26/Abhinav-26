@@ -20,6 +20,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abhinavd26/) 
 [<img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />](https://dev.to/abhinavd26)
 
+<!--
 ### Languages & Tools Worked On 👨🏻‍💻
 <code><img height="35" src="https://img.icons8.com/color/48/000000/python.png"/></code>&nbsp;&nbsp;
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>&nbsp;&nbsp;
@@ -38,14 +39,14 @@
 <code><img height="35" src="https://argo-cd.readthedocs.io/en/stable/assets/argo.png"></code>&nbsp;&nbsp;
 <code><img height="35" src="https://bandstech.net/wp-content/uploads/2018/04/mautic_2.png"></code>&nbsp;&nbsp;
 <code><img height="35" src="https://k3d.io/v4.4.8/static/img/k3d_logo_black_blue.svg"></code><br>
-
+-->
 ### Some GitHub Insights 🚀
 <!-- Copy-paste in your Readme.md file -->
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=48083659" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=48083659&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @Abhinav-26" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=48083659&image_size=auto&color_scheme=light" width="771" height="auto">
+    <img alt="Dashboard stats of @Abhinav-26" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=48083659&image_size=auto&color_scheme=light" width="auto" height="auto">
   </picture>
 </a>
 
